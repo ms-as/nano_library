@@ -6,7 +6,7 @@ Python 3.4
 
 <br>
 <br>
-Instalation:
+Instalation:<br>
 - pip3 install beautifulsoup4<br>
 - pip3 install pandas<br>
 - pip3 install xlrd<br>
