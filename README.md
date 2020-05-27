@@ -1,7 +1,7 @@
 # Springer free books library
 
 <br>
-Requiments: <br>
+Requirements: <br>
 Python 3.4
 
 <br>
